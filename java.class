@@ -1,3 +1,4 @@
 public class Demo{
 String b=0;
+String a=0;
 }
